@@ -1,16 +1,13 @@
-### Hi there 👋
+Hola, soy Miguel Portilla 👋
+Soy un desarrollador Front-End con experiencia en Angular y estoy buscando oportunidades emocionantes para seguir creciendo en mi carrera. Me apasiona crear aplicaciones web dinámicas y atractivas que mejoren la experiencia del usuario. 💻🚀
 
-<!--
-**Mik318/Mik318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías que manejo 🛠️
+Angular 🔹
+TypeScript 🔸
+HTML 🌐
+CSS 🎨
+SCSS 🎀
+Bootstrap 🅱️
+Tailwind CSS 🐦
+JavaScript 🚀
+Git 🐙
