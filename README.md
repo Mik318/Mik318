@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Mike Portilla: Operativo del Sector Front-End 🛡️</h1>
+<h1 align="center">🚀 Mike Portilla — Desarrollador Full-Stack Angular + Java • Sector V de la KND 🚀</h1>
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/kndloschicosdelbarrio/images/7/7c/Casa_del_%C3%81rbol_del_Sector_V.png/revision/latest?cb=20230430063335&path-prefix=es" height="200"/>
@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
 ---
