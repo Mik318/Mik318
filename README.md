@@ -1,24 +1,70 @@
-<h1 align="center">Hola 👋, soy Mike Portilla</h1>
-<h3 align="center">Soy un desarrollador Front-End con experiencia en Angular y estoy buscando oportunidades emocionantes para seguir creciendo en mi carrera. Me apasiona crear aplicaciones web dinámicas y atractivas que mejoren la experiencia del usuario. 💻🚀</h3>
+<h1 align="center">🛡️ Mike Portilla: Operativo del Sector Front-End 🛡️</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mik318&label=Profile%20views&color=0e75b6&style=flat" alt="mik318" /> </p>
-
-- 🔭 Actualmente trabajo en **proyectos corporativos**
-
-- 🌱 Actualmente estoy aprendiendo **Backend, cloud**
-
-- 👯 Estoy buscando colaborar en **nuevos retos cada día**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/miguel-alexis-portilla-pérez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-alexis-portilla-pérez" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/kndloschicosdelbarrio/images/7/7c/Casa_del_%C3%81rbol_del_Sector_V.png/revision/latest?cb=20230430063335&path-prefix=es" height="200"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Agente Reclutado por la KND para crear interfaces increíbles y luchar contra el mal diseño 🧑‍💻</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mik318&show_icons=true&locale=en&layout=compact" alt="mik318" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mik318&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="mik318" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mik318&show_icons=true&locale=en" alt="mik318" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mik318&" alt="mik318" /></p>
+## 🎯 Misión: Codificar contra adultos y malas UX
+
+- 🔭 Actualmente en misiones corporativas de desarrollo Angular.
+- 🌱 Entrenando en tecnologías Back-End y Cloud (AWS, Node.js).
+- 🧪 Colaborando con equipos que se atrevan a desafiar el status quo.
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/knd/images/8/81/04.Operation%EF%BC%9AM.O.V.I.E._-_F.A.S.T.-F.O.O.D_201319572.jpg/revision/latest?cb=20201227015636" height="160"/>
+</p>
+
+---
+
+## 🔗 Contacto de emergencia
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/miguel-alexis-portilla-pérez)
+
+---
+
+## ⚒️ Herramientas del operativo:
+
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+</p>
+
+---
+
+## 📊 Estadísticas de misión
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mik318&show_icons=true&locale=es&layout=compact" alt="mik318" />
+</p>
+
+---
+
+## 🎬 ¡Directo desde el Árbol Central de KND!
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/cartoonnetwork/images/8/89/Logo_-_KND.gif/revision/latest?cb=20140720171128&path-prefix=es" height="120"/>
+</p>
+
+<p align="center">
+  <i>“En la lucha contra el aburrimiento digital, Mike Portilla siempre tiene un componente listo.”</i>
+</p>
+
+---
+
+> 🗒️ *“Operación: REA-DME — README Estéticamente Atractivo Del Muy Emeth.”*
+
