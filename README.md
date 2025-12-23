@@ -1,125 +1,110 @@
-<div align="center">
+# Miguel Alexis Portilla Pérez
+### Full-Stack Developer | Angular + Java Spring Boot
 
-# 🌳⚡ OPERACIÓN: NIGHTHAWK-318 ⚡🌳  
-🏆 AGENTE ÉLITE DEL SECTOR V • FULL-STACK (Angular + Java) • TECNOLOGÍA 2X4 🏆  
-
-<img src="https://img.shields.io/badge/OPERACIÓN-MIKE%20PORTILLA-FF6B35?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/AGENTE%20ÉLITE-SECTOR%20V-32CD32?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/FULL--STACK-ANGULAR%20+%20JAVA-FF4500?style=for-the-badge" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/miguel-alexis-portilla-pérez)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:miguelalexisportillaperez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/mik318)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=200&section=header&text=CASA%20DEL%20ÁRBOL%20-%20SECTOR%20V&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Miguel%20Alexis%20Portilla%20Pérez%20•%20Agente%20318%20•%20Code%20Name:%20NIGHTHAWK&descAlignY=65&descSize=16"/>
+## 👨‍💻 Sobre mí
+
+Desarrollador Full-Stack especializado en **Angular** y **Java Spring Boot** con pasión por crear aplicaciones web escalables y eficientes. Me enfoco en escribir código limpio, mantenible y siguiendo las mejores prácticas de la industria.
+
+- 🔭 Actualmente trabajando en proyectos con arquitectura de microservicios
+- 🌱 Aprendiendo continuamente sobre patrones de diseño y arquitectura cloud
+- 💡 Interesado en DevOps, CI/CD y optimización de aplicaciones
+- 🎯 Buscando oportunidades para contribuir en proyectos innovadores
 
 ---
 
-## 🎖️ Estado de la Operación
-<img src="https://img.shields.io/badge/STATUS-OPERATIVO%20KND-orange?style=for-the-badge&labelColor=8B4513&color=FF8C00" />  
-<img src="https://img.shields.io/badge/TECH-2X4%20AVANZADA-green?style=for-the-badge&labelColor=228B22&color=32CD32" />  
-<img src="https://img.shields.io/badge/MISSION-EN%20PROGRESO-red?style=for-the-badge&labelColor=8B0000&color=FF4500" />
+## 🛠️ Stack Tecnológico
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🏅 Medallas de Honor
-<img src="https://github-profile-trophy.vercel.app/api/?username=mik318&theme=juicyfresh&no-frame=true&margin-w=6&title=Stars,Followers,Commits,Repositories,PullRequest" />  
-<img src="https://komarev.com/ghpvc/?username=mik318&label=AGENTES%20INFILTRADOS&color=FF6B35&style=for-the-badge&labelColor=8B4513" />
-
----
-
-## 🛠️ Arsenal Tecnológico
-**Armas principales**  
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,java,nodejs,spring,tailwind,bootstrap&perline=4" />  
-
-**Gadgets especiales**  
-<img src="https://skillicons.dev/icons?i=firebase,postgresql,docker,aws,git,postman,linux,vscode&perline=4" />  
-
-**Herramientas de espionaje**  
-<img src="https://skillicons.dev/icons?i=html,css,sass,figma,bash,github,npm,webpack&perline=4" />  
-
----
-
-## 📊 Intel de Rendimiento
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mik318&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&border_radius=10"/>  
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik318&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b35&text_color=ffffff&border_radius=10"/>  
-
----
-
-## 📡 Canales de Comunicación
-[<img src="https://img.shields.io/badge/LINKEDIN-CANAL%20PROFESIONAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/miguel-alexis-portilla-pérez)  
-[<img src="https://img.shields.io/badge/EMAIL-COMUNICACIÓN%20DIRECTA-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:miguelalexisportillaperez@gmail.com)  
-[<img src="https://img.shields.io/badge/GITHUB-BASE%20DE%20OPERACIONES-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/mik318)  
-
----
-
-## 🏆 Galería de Trofeos
-<img src="https://github-profile-trophy.vercel.app/api/?username=mik318&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
----
-
-## 🎬 Transmisión en Vivo
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mik318&bg_color=1a1a2e&color=ff6b35&line=ff6b35&point=ff4500&area=true&hide_border=true&custom_title=Actividad%20en%20la%20Casa%20del%20Árbol%20-%20Sector%20V" />
-
----
-
-## 📂 Dossier Clasificado
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,6,12,18&height=150&section=header&text=MENSAJE%20OFICIAL%20DEL%20SECTOR%20V&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Agente%20NIGHTHAWK-318%20%7C%20Valor%20y%20tecnología%202x4%20al%20servicio%20de%20la%20KND.&descAlignY=70&descSize=14" />
-
----
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-![DOSSIER](https://img.shields.io/badge/DOSSIER%20CLASIFICADO-OPERATION%20R.E.A.D.M.E-DC143C?style=for-the-badge&logo=file-text)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mik318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik318&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
-<table>
-  <tr>
-    <td align="center" colspan="2">
+## 🏆 Habilidades Destacadas
 
-### 🕵️‍♂️ OPERACIÓN: **R.E.A.D.M.E**  
-🔒 NIVEL DE CLEARANCE: **SUPREMO**
-
-</td>
-  </tr>
-  <tr>
-    <td><b>R</b></td><td>Repositorio Revolucionario contra adultos malvados</td>
-  </tr>
-  <tr>
-    <td><b>E</b></td><td>Experiencia Extraordinaria en tecnología 2x4</td>
-  </tr>
-  <tr>
-    <td><b>A</b></td><td>Arquitectura Avanzada de la casa del árbol</td>
-  </tr>
-  <tr>
-    <td><b>D</b></td><td>Desarrollo Dinámico anti-establishment</td>
-  </tr>
-  <tr>
-    <td><b>M</b></td><td>Misión Máxima de protección digital</td>
-  </tr>
-  <tr>
-    <td><b>E</b></td><td>Excelencia Épica del Sector V</td>
-  </tr>
-</table>
+- **Desarrollo Frontend**: Experiencia en Angular (versiones modernas), manejo de estado con RxJS, componentes reutilizables
+- **Desarrollo Backend**: APIs RESTful con Spring Boot, seguridad con JWT, arquitectura en capas
+- **Base de Datos**: Diseño de esquemas, optimización de queries, ORM (JPA/Hibernate)
+- **DevOps**: Containerización con Docker, deployment en AWS, CI/CD
+- **Metodologías**: Scrum, Git Flow, TDD, Clean Code
 
 ---
 
-<div style="margin: 20px 0;">
+## 💼 Proyectos Destacados
 
-![CLASIFICACIÓN](https://img.shields.io/badge/CLASIFICACIÓN%20OFICIAL-KND-FF6B35?style=plastic)  
-![SECTOR](https://img.shields.io/badge/SECTOR%20DE%20ORIGEN-CASA%20DEL%20ÁRBOL%20PRINCIPAL-8B4513?style=plastic)  
-![NIVEL](https://img.shields.io/badge/NIVEL%20DE%20ACCESO-AGENTE%20ÉLITE%20CLEARANCE%20TOTAL-FF4500?style=plastic)  
-![ESPECIALIDAD](https://img.shields.io/badge/ESPECIALIDAD-TECNOLOGÍA%202X4%20AVANZADA-32CD32?style=plastic)  
-![RANGO](https://img.shields.io/badge/RANGO-COMANDANTE%20DE%20OPERACIONES%20DIGITALES-9370DB?style=plastic)  
-![PRÓXIMA](https://img.shields.io/badge/PRÓXIMA%20MISIÓN-CONQUISTAR%20EL%20MUNDO%20DEL%20DESARROLLO-FFD700?style=plastic)  
-![OBJETIVO](https://img.shields.io/badge/OBJETIVO%20FINAL-DERROTAR%20TODOS%20LOS%20BUGS%20DEL%20UNIVERSO-DC143C?style=plastic)
+### 🔹 [Nombre del Proyecto 1]
+**Stack**: Angular 17, Spring Boot 3, PostgreSQL, Docker
+- Descripción breve del proyecto y su impacto
+- Implementación de autenticación JWT y roles de usuario
+- Optimización de rendimiento que resultó en X% de mejora
 
+### 🔹 [Nombre del Proyecto 2]
+**Stack**: Angular, Java, Firebase
+- Aplicación web para [propósito]
+- Integración con APIs externas
+- Diseño responsive y accesible
+
+---
+
+## 📈 Actividad Reciente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mik318&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
+---
+
+## 📫 Contacto
+
+Estoy abierto a oportunidades laborales y colaboraciones en proyectos interesantes. No dudes en contactarme:
+
+- 📧 Email: miguelalexisportillaperez@gmail.com
+- 💼 LinkedIn: [miguel-alexis-portilla-pérez](https://linkedin.com/in/miguel-alexis-portilla-pérez)
+- 🌐 GitHub: [@mik318](https://github.com/mik318)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mik318&color=blueviolet&style=flat-square&label=Visitas+al+perfil"/>
 </div>
 
-
-![MENSAJE ESPECIAL](https://img.shields.io/badge/MENSAJE%20ESPECIAL-CUARTEL%20GENERAL-FF8C00?style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=footer&text=FIN%20DE%20TRANSMISIÓN%20-%20SECTOR%20V&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />  
-
+<div align="center">
+  
+  **"Código limpio, soluciones eficientes"**
+  
 </div>
