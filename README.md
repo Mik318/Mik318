@@ -63,23 +63,6 @@ Desarrollador Full-Stack especializado en **Angular** y **Java Spring Boot** con
 - **Base de Datos**: Diseño de esquemas, optimización de queries, ORM (JPA/Hibernate)
 - **DevOps**: Containerización con Docker, deployment en AWS, CI/CD
 - **Metodologías**: Scrum, Git Flow, TDD, Clean Code
-
----
-
-## 💼 Proyectos Destacados
-
-### 🔹 [Nombre del Proyecto 1]
-**Stack**: Angular 17, Spring Boot 3, PostgreSQL, Docker
-- Descripción breve del proyecto y su impacto
-- Implementación de autenticación JWT y roles de usuario
-- Optimización de rendimiento que resultó en X% de mejora
-
-### 🔹 [Nombre del Proyecto 2]
-**Stack**: Angular, Java, Firebase
-- Aplicación web para [propósito]
-- Integración con APIs externas
-- Diseño responsive y accesible
-
 ---
 
 ## 📈 Actividad Reciente
