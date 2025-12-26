@@ -1,5 +1,5 @@
 # Miguel Alexis Portilla Pérez
-### Full-Stack Developer | Angular + Java Spring Boot
+### Full-Stack Developer | Angular + Vue.js + Java Spring Boot
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/miguel-alexis-portilla-pérez)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:miguelalexisportillaperez@gmail.com)
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador Full-Stack especializado en **Angular** y **Java Spring Boot** con pasión por crear aplicaciones web escalables y eficientes. Me enfoco en escribir código limpio, mantenible y siguiendo las mejores prácticas de la industria.
+Desarrollador Full-Stack especializado en **Angular**, **Vue.js** y **Java Spring Boot** con pasión por crear aplicaciones web escalables y eficientes. Me enfoco en escribir código limpio, mantenible y siguiendo las mejores prácticas de la industria.
 
 - 🔭 Actualmente trabajando en proyectos con arquitectura de microservicios
 - 🌱 Aprendiendo continuamente sobre patrones de diseño y arquitectura cloud
@@ -22,6 +22,7 @@ Desarrollador Full-Stack especializado en **Angular** y **Java Spring Boot** con
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,11 +60,12 @@ Desarrollador Full-Stack especializado en **Angular** y **Java Spring Boot** con
 
 ## 🏆 Habilidades Destacadas
 
-- **Desarrollo Frontend**: Experiencia en Angular (versiones modernas), manejo de estado con RxJS, componentes reutilizables
-- **Desarrollo Backend**: APIs RESTful con Spring Boot, seguridad con JWT, arquitectura en capas
-- **Base de Datos**: Diseño de esquemas, optimización de queries, ORM (JPA/Hibernate)
-- **DevOps**: Containerización con Docker, deployment en AWS, CI/CD
-- **Metodologías**: Scrum, Git Flow, TDD, Clean Code
+- **Desarrollo Frontend**: Experiencia sólida en Angular y Vue.js, manejo de estado (RxJS/Pinia), y creación de componentes reutilizables.
+- **Desarrollo Backend**: APIs RESTful con Spring Boot, seguridad con JWT y diseño de arquitectura en capas.
+- **Base de Datos**: Diseño de esquemas, optimización de queries y uso de ORM (JPA/Hibernate).
+- **DevOps**: Containerización con Docker, despliegue en AWS y flujos de CI/CD.
+- **Metodologías**: Scrum, Git Flow, TDD y principios de Clean Code.
+
 ---
 
 ## 📈 Actividad Reciente
